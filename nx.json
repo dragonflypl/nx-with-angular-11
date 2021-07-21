@@ -22,13 +22,5 @@
       }
     }
   },
-  "projects": {
-    "hello": {
-      "tags": []
-    },
-    "hello-e2e": {
-      "tags": [],
-      "implicitDependencies": ["hello"]
-    }
-  }
+  "projects": {}
 }
